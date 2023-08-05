@@ -1,5 +1,5 @@
 # TaskTool Timer
- Focus-timer PoC to combat distraction attrition throughout a work shift.
+ Old project written in PHP and Bootstrap.
 
  # How it works
 
@@ -12,3 +12,6 @@
 
 # How to Use
 * Add to php enabled webserver. Make sure .sqlite file is writable.
+
+# Why?
+ The idea was to capture interruptions as they occur throughout the day. The tool proved valuable on several occasions where it was able to capture a disproprotionate amount of "Walk ups" on our Help Desk.
